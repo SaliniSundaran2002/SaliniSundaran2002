@@ -1,27 +1,40 @@
-<h1 align="center">Welcome 👋, I am <strong>Salini Sundaran</strong>, a tech enthusiast</h1>
+<h1 align="center" style="font-size: 2.5em; color: #4CAF50;">Welcome 👋, I am <strong>Salini Sundaran</strong></h1>
 
+<h3 align="center" style="font-size: 1.5em; color: #555;">Full-Stack Developer | Blockchain Enthusiast | MERN Expert</h3>
 
+<p align="center" style="font-size: 1.2em; color: #777; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+  I am a passionate full-stack developer with expertise in frontend and backend technologies. With a deep interest in blockchain, I strive to create innovative and scalable solutions that bridge the gap between cutting-edge technology and real-world applications. Currently, I am pursuing a PG Diploma at Kerala Blockchain Academy to enhance my skills in decentralized technologies. 🚀
+</p>
 
-<h3 align="center">A tech explorer with a passion for innovation, I’m currently pursuing my PG Diploma to dive deeper into the fascinating world of blockchain and decentralized technology. 🚀</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Blockchain-blue" alt="Currently Learning Blockchain"/>
-  <img src="https://img.shields.io/badge/Ask%20Me%20About-Solidity%2C%20MERN-green" alt="Ask Me About Solidity, MERN"/>
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Blockchain-blue" alt="Currently Learning Blockchain" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Ask%20Me%20About-Frontend%2C%20Backend%2C%20Blockchain-green" alt="Ask Me About Frontend, Backend, Blockchain" style="margin: 0 5px;" />
 </div>
 
-<br/>
+<blockquote align="center" style="font-size: 1.2em; color: #555; font-style: italic; margin: 30px 0;">
+  "Dream big. Start small. But most of all, start." – Simon Sinek
+</blockquote>
 
+<hr style="border: 1px solid #ddd; margin: 30px 0;" />
 
-📫 **Reach Me**: [salinisundaran2002@gmail.com](mailto:salinisundaran2002@gmail.com)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/salini-sundaran" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<h3 style="color: #333;">Connect with me:</h3>
+<p style="display: flex; align-items: center; gap: 15px; font-size: 1.2em;">
+  <a href="mailto:salinisundaran2002@gmail.com" target="_blank" style="text-decoration: none; color: #555;">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" height="30" width="30" style="vertical-align: middle;" />
+  
+  </a>
+  <a href="https://salini2002.web.app" target="_blank" style="text-decoration: none; color: #555;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="30" width="30" style="vertical-align: middle;" />
+ 
+  </a>
+  <a href="https://www.linkedin.com/in/salini-sundaran" target="_blank" style="text-decoration: none; color: #555;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle;" />
+   
   </a>
 </p>
+
+
+
 
 ---
 
